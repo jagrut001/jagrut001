@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.qamadness.com/wp-content/themes/qamadness/dist/images/blog-gifs/Transforming-Businesses-With-IoT.gif))]
+![Transforming-Businesses-With-IoT](https://user-images.githubusercontent.com/67455535/211240136-c8554fcc-7df2-4e89-bd73-11a5d7e22d1e.gif)
 
 
 <h1 align="center">Hi 👋, I'm Jagrutkumar Vaghela</h1>
