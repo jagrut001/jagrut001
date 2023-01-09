@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.qamadness.com%2Fwireless-era-what-to-expect-and-how-iot-software-testing-evolves%2F&psig=AOvVaw3wz4BeChAuKPZUcFELS_4f&ust=1673323094262000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDfk7fMufwCFQAAAAAdAAAAABAE)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.qamadness.com/wp-content/themes/qamadness/dist/images/blog-gifs/Transforming-Businesses-With-IoT.gif))]
+
 
 <h1 align="center">Hi 👋, I'm Jagrutkumar Vaghela</h1>
 <h3 align="center">A Passionate Embedded Hardware Design Engineer from India</h3>
