@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jagrutkumar-vaghela-99601482/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jagrutkumar-vaghela-99601482" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vaghelajagrutp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vaghelajagrutp" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vaghelajagrutp?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vaghelajagrutp" height="30" width="40" /></a>
 <a href="https://discord.gg/JkumaR#9205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JkumaR#9205" height="30" width="40" /></a>
 </p>
 
