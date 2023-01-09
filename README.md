@@ -11,15 +11,13 @@
 
 - 🌱 I’m currently learning **Matter , Digital Twin, V2X , Embedded Linux , NFTs**
 
-- 👯 I’m looking to collaborate on [Matter (Project CHIP)](https://github.com/project-chip/connectedhomeip)
-
-- 🤝 I’m looking for help with **Embedded Linux Development in Automobile**
+- 🤝 I’m looking for help with **Embedded Linux Development **
 
 - 👨‍💻 All of my projects are available at [jagrut001.github.io](jagrut001.github.io)
 
 - 📝 I regularly write articles on [jagrut001.github.io](jagrut001.github.io)
 
-- 💬 Ask me about **Embedded Product Design , IoT , High Speed PCB Design**
+- 💬 Ask me about **Embedded Product Design , IoT , High Speed PCB Design, Start Ups**
 
 - 📫 How to reach me **vaghela.jagrut@engineer.com**
 
