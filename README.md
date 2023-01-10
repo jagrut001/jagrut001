@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Matter , Digital Twin, V2X , Embedded Linux , NFTs**
 
-- 🤝 I’m looking for help with **Embedded Linux Development **
+- 🤝 I’m looking for help with **V2X , Embedded Linux Development **
 
 - 👨‍💻 All of my projects are available at [jagrut001.github.io](jagrut001.github.io)
 
 - 📝 I regularly write articles on [jagrut001.github.io](jagrut001.github.io)
 
-- 💬 Ask me about **Embedded Product Design , IoT , High Speed PCB Design, Start Ups**
+- 💬 Ask me about **Embedded Product Design , IoT , High Speed PCB Design, Nb-IoT, Start Ups**
 
 - 📫 How to reach me **vaghela.jagrut@engineer.com**
 
