@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Embedded Products Development (IoT)**
 
-- 🌱 I’m currently learning **Matter , Digital Twin, V2X , Embedded Linux , NFTs**
+- 🌱 I’m currently learning **Matter ,Digital Twin, V2X , Embedded Linux, NFTs**
 
 - 🤝 I’m looking for help with **V2X , Embedded Linux Development **
 
