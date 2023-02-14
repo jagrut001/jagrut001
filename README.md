@@ -21,6 +21,40 @@
 
 - 📫 How to reach me **vaghela.jagrut@engineer.com**
 
+🚀 Providing FULL-CYCLE product design from Idea to Production: Electronics PCB, Firmware, App development, Prototype Testing, Debugging, Manufacturing, and Troubleshooting.
+
+➢ MCUs and MPUs : Xtensa@32-bit LX6 | ARM Cortex-M0 | Cortex M0+ | Cortex M4 | iCE40
+ FPGA | RISC-V T-Head | ST | TI | PIC | Atmel | Allwinner | Rockchip | NXP
+➢ Protocols : SPI | I2C | UART | RS232/485 | JTAG | SWD | Wireless M-BUS | Wi-Fi | BLE | Bluetooth | UWB | SubGhz | Nb-IoT | NFC | CAT-M1 | Lte-Cat1 | GPS
+➢ Hardware design : Digital | Analog | Mixed-signal | High Speed Board design | DC to DC Converters | Multi-Board Designs | DMM | Oscilloscope | Altium | Kicad | GIT
+➢ High speed interfaces: USB | DDR Memory | EMMC | EMCP | MIPI | Ethernet | HDMI
+➢ Managed complete projects with responsibility from architecture design to production supervision, interaction with firmware, testing, support, and purchase teams.
+➢ Good work experience in high-speed board design, Analog design, Mixed-signal design, Power - high voltage applications, and reverse engineering projects.
+➢ Schematic design, Component selection, Footprint and symbol library, Architecture design, Verification and validation, Prototype testing, Bill of Material (BOM), Netlist, and Board bring-up activities.
+➢ Testing: test plan, test fixture design, system testing, production testing support and testing documentation.
+➢ Experienced in failure analysis and troubleshooting of field issues. 
+➢ Essential Skills - PCB Gerber verification, Soldering – TH+SMD, Python, C Language, and MATLAB
+➢ Tools - Altium Designer, GIT
+➢ Actively Learning Environmental, Mechanical, and certification experience, EMI/EMC, Signal integrity.
+➢ Product commercialization and full product life cycle control.
+
+A positive frame of mind that is always hungry to learn & apply that knowledge for immediate positive impact, ready to accept new challenges in any area.
+
+✅========== ELECTRONICS HARDWARE ==========
+- Circuit Simulation: Related to Mixed-Signal, Analog, and Power Electronics Circuits.
+- Schematic/Circuit Design
+- PCB/Layout Designing
+- Prepare Design Control Documents
+- BOM Procurement, Prototype Manufacturing in China & India;
+- PCB Software: Altium, Diptrace, kiCAD, etc.
+- Simulation Software - Matlab Simulink, LTSPICE, PSPICE, WEBENCH, MULTISIM
+
+✅========== MANUFACTURING ==========
+- Consultation on any aspect of design and manufacturing.
+- PCB Prototype manufacturing, debugging, and validation;
+- Mass production final product assembly, testing and final finishing;
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jagrutkumar-vaghela-99601482/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jagrutkumar-vaghela-99601482" height="30" width="40" /></a>
