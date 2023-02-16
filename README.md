@@ -25,7 +25,9 @@
 
 ➢ MCUs and MPUs : Xtensa@32-bit LX6 | ARM Cortex-M0 | Cortex M0+ | Cortex M4 | iCE40
  FPGA | RISC-V T-Head | ST | TI | PIC | Atmel | Allwinner | Rockchip | NXP
+ 
 ➢ Protocols : SPI | I2C | UART | RS232/485 | JTAG | SWD | Wireless M-BUS | Wi-Fi | BLE | Bluetooth | UWB | SubGhz | Nb-IoT | NFC | CAT-M1 | Lte-Cat1 | GPS
+
 ➢ Hardware design : Digital | Analog | Mixed-signal | High Speed Board design | DC to DC Converters | Multi-Board Designs | DMM | Oscilloscope | Altium | Kicad | GIT
 ➢ High speed interfaces: USB | DDR Memory | EMMC | EMCP | MIPI | Ethernet | HDMI
 ➢ Managed complete projects with responsibility from architecture design to production supervision, interaction with firmware, testing, support, and purchase teams.
