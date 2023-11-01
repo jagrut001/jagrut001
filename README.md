@@ -11,7 +11,7 @@
 
 - 👨‍💻 Personality Type **INFJ**
 
-- 🌱 I’m currently learning **Matter ,Digital Twin, V2X , Embedded Linux, NFTs**
+- 🌱 I’m currently learning **Matter ,Digital Twin, V2X , Embedded Linux**
 
 - 🤝 I’m looking for help with **V2X , Embedded Linux Development **
 
